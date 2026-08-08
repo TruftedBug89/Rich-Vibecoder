@@ -1,0 +1,48 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+out/
+coverage/
+.cache/
+.parcel-cache/
+.turbo/
+.next/
+.nuxt/
+.svelte-kit/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Local harness state
+.commandcode/
+
+# Agent and harness-generated local state
+.agent/
+.claude/
+.codex/
+.cursor/
+.opencode/
