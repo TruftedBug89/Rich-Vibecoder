@@ -4,8 +4,8 @@
 
 Rich Vibecoder runs **five independent, read-only planning agents** on the same task and context, compares their plans, and produces one implementation handoff for a later coding phase.
 
-> [!NOTE]
-> **Project Status:** 🟢 **Working / Functional**  
+> [!WARNING]
+> **Project Status:** 🧪 **In development — not tested**
 > *This status must not be changed by AI unless explicitly instructed by the repository owner.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
